@@ -1,11 +1,11 @@
-Markdown<div align="center">
+<div align="center">
 
 # Yo, I'm Lotha 🚀  
 **Full-Stack Wizard • Mobile App Alchemist • The Guy Who Makes Servers Obey**
 ░█▀▀░█▀█░█░█░█▀▀░█░█░█▀▀░█▀█░█▀█░█▀▀
 ░█▀▀░█▀█░█▄█░█▀▀░█▄█░█▀▀░█▀█░█░█░█░░
 ░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀░▀░▀▀▀
-textTurning coffee into clean code since 2018 ☕ → 💻
+Turning coffee into clean code since 2018 ☕ → 💻
 
 </div>
 
@@ -19,3 +19,11 @@ textTurning coffee into clean code since 2018 ☕ → 💻
 | Hosting that never cries         | Upnet Solutions – unlimited NVMe everything                   | Ask LGT Logistics… they’re with me now 😏   |
 
 ### 🛠 Current Weapon Loadout (2025 Edition)
+
+```yaml
+OS:         Fedora (raw & fast gang)
+Editor:     VS Code + Zen Mode + Catppuccin Mocha
+Terminal:   Kitty + Starship + zsh (yes, I rice)
+Font:       JetBrains Mono + Nerd Fonts (ligatures = life)
+Android:    Custom ROM enjoyer • Obtainium gang
+Coffee:     4 cups minimum or the code writes itself (badly)
